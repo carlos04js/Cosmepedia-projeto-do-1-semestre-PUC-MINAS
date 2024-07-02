@@ -12,7 +12,7 @@
 
 `EIXO 1`
 
-Apresento a vocês o projeto domeu grupo no  primeiro semestre de ADS pela PUC minas.
+Apresento a vocês o projeto do meu grupo no  primeiro semestre de ADS pela PUC minas.
 
 O Cosmepédia se propõe a ser, uma aplicação web front end, que oferece informações abrangentes sobre agentes químicos encontrados nos ingredientes cosméticos,
 incluindo descrições, nomenclaturas químicas e efeitos adversos potenciais a curto e longo prazo. Contribuindo para a segurança e o bem-estar dos usuários ao 
