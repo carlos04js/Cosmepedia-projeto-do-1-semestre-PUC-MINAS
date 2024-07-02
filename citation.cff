@@ -1,0 +1,25 @@
+message: Please cite this software using these metadata.
+title: Cosmepédia
+authors:
+  - family-names: Henrique Duarte Filho
+    given-names: Alirio
+  - family-names: Augusto da Silva Borges
+    given-names: Carlos 
+  - family-names: Costa Campos
+    given-names: Júlia
+  - family-names: Honorato de Souza Silva
+    given-names: Mauricio
+  - family-names: L Martins
+    given-names: Raianne 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Azevedo Nigri do Carmo
+    given-names: Humberto
+  
+keywords:
+  - Ingrediente
+  - Cosmeticos
+  - Analise
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e1-proj-web-t10-pmv-ads-2024-1-e1-proj-web-cosmepedia?tab=readme-ov-file
+version: 1.0.0
+date-released: 2024-06-23
